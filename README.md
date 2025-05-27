@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Hello, I'm Tauany Silva Santos 🌸</h1>
+<h1 align="center">🌸 Hello, I'm Tauany 🌸</h1>
 
 <p align="center">
 🎨 Creative Coder | 🌱 Lifelong Learner  
