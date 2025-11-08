@@ -28,12 +28,11 @@
 
 ---
 
-### 💫 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauany15&layout=compact&theme=tokyonight&title_color=ff69b4&text_color=ffffff" width="48%"/>
 </div>
-
 ---
 
 ### 🌐 Let's Connect
