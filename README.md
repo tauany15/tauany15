@@ -39,7 +39,7 @@
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/tauany-silva-santos-43a335144/" target="_blank">
+  <a href="https://www.linkedin.com/in/tauanyssantos" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://tauany15.github.io/portfolio-website/" target="_blank">
